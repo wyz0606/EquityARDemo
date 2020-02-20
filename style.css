@@ -1,0 +1,14 @@
+p, a, button{
+  position: absolute;
+  left: 50vw;
+  transform: translate(-50%);
+}
+
+#text{
+  display: block;
+  height: 100px;
+}
+
+#link{
+  display: block;
+}
